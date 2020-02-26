@@ -1,7 +1,7 @@
 # This is your main function
 # This is where you declare your variables and use your functions
 def main():
-	distance = 10 
+	distance = 20 
 	speed = 1
 	distance_covered = 0
 	while(distance_covered < distance):
